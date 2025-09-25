@@ -1,8 +1,8 @@
 {
-  "name": "task3",
+  "name": "task4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BalaMuruganGM.github.io/Task3",
+  "homepage": "https://BalaMuruganGM.github.io/Task4",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",

@@ -31,7 +31,7 @@ const FromRequired = ()=>{
     if(!formValue.rating){
         errorShow.rating = "Rating is Required";
     }else if(formValue.rating <1 || formValue.rating >=5){
-        errorShow.rating = "Invalid Rating";
+        errorShow.rating = "Rating must be 1 to 5";
     }
 
     if(!formValue.comment.trim()){
